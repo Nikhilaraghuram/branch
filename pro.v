@@ -40,4 +40,4 @@ always @(posedge clkdiv[24])
     end
 end
 
-endmodule1i
+endmodule
