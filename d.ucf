@@ -1,0 +1,3 @@
+NET "pb" LOC = P45;
+NET "led" LOC = p33;
+NET "clk_in" = p84;
